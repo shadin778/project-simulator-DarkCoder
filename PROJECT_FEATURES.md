@@ -13,3 +13,8 @@ As a security-conscious user, I want the system to detect and alert me about any
 This feature detects suspicious behavior patterns using AI modeling and sends real-time alerts for security issues.
 **Status: Planned**
 
+
+#### Sub-features:
+- Detects suspicious or abnormal behavior patterns
+- AI Behavior Modeling and Real-Time Anomaly Alerts
+- Sends alerts for security issues (e.g., unauthorized login)
