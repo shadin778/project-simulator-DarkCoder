@@ -23,3 +23,11 @@ As a user, I want to see a score that reflects how well I adapt to learning and 
 This feature uses AI to track user engagement, response to feedback, and pace of skill acquisition to generate an adaptability score. It helps users understand their learning flexibility and identify areas for improvement.
 **Status: Planned**
 
+### Sub-Features for T-14.1:
+- Integrated into verification flows
+- Progress and results shown through existing screens
+- Toggle to enable ZKP mode
+- Proof generation and validation logic implemented
+- Success/failure status displayed based on verification result
+- Private sharing of proof ensured through secure channels
+
