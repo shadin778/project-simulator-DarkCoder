@@ -13,3 +13,8 @@ As a user, I want to see a reputation score based on my learning, behavior, and 
 This feature uses AI to analyze multiple dimensions—such as learning progress, interaction quality, and peer feedback—to generate a dynamic reputation score that reflects user credibility across the platform.
 **Status: Planned**
 
+## T-14.4: Predictive Goal Recommendation (AI)
+As a user, I want the system to recommend personalized goals using AI, so I can improve and grow in areas that matter most to me.
+This feature leverages AI to analyze user behavior, learning history, and preferences to suggest tailored goals that align with individual growth paths. It helps users stay motivated and focused on meaningful progress.
+**Status: Planned**
+
