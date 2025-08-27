@@ -8,3 +8,8 @@ This feature enables credential verification using cryptographic ZKPs, ensuring 
 As a learner or professional, I want to issue, receive, and store verifiable credentials securely, so I can use them as proof of my skills or qualifications.
 **Status: Planned**
 
+## T-14.3: Multi-Vector Reputation Scoring (AI)
+As a user, I want to see a reputation score based on my learning, behavior, and social input, so I can understand how others perceive my credibility.
+This feature uses AI to analyze multiple dimensions—such as learning progress, interaction quality, and peer feedback—to generate a dynamic reputation score that reflects user credibility across the platform.
+**Status: Planned**
+
