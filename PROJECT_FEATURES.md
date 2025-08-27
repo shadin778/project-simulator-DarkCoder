@@ -18,3 +18,8 @@ As a user, I want the system to recommend personalized goals using AI, so I can 
 This feature leverages AI to analyze user behavior, learning history, and preferences to suggest tailored goals that align with individual growth paths. It helps users stay motivated and focused on meaningful progress.
 **Status: Planned**
 
+## T-14.5: Learning Adaptability Index (AI)
+As a user, I want to see a score that reflects how well I adapt to learning and change, so I can improve my ability to grow over time.
+This feature uses AI to track user engagement, response to feedback, and pace of skill acquisition to generate an adaptability score. It helps users understand their learning flexibility and identify areas for improvement.
+**Status: Planned**
+
